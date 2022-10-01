@@ -1,2 +1,2 @@
 # PatikaDevSQL
-www.patika.dev SQL ödevleri
+[Patika.Dev](www.patika.dev) SQL ödevleri
